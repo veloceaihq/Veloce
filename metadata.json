@@ -1,0 +1,6 @@
+{
+  "name": "VeloceAI Solutions",
+  "description": "AI Performance & Analytics — Enterprise AI automation, predictive analytics, and sub-50ms LLM workflows founded by Mahnoor Asim.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
